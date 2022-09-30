@@ -1,16 +1,6 @@
-# flutter_burc_rehberi
 
-A new Flutter project.
 
-## Getting Started
+Zodiac Signs Flutter project.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1664562412](https://user-images.githubusercontent.com/48881290/193334524-7ff5ad2c-cccc-4801-98cd-f836eacf4eb8.png)
+![Screenshot_1664562415](https://user-images.githubusercontent.com/48881290/193334527-47f8173c-4792-436e-8be4-51d514be187d.png)
